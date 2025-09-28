@@ -2,7 +2,7 @@
 
 Submit a pull-request to update. 
 
-### Template
+## Template
 
 - **Description**: 
 - **Code**: 
@@ -10,7 +10,7 @@ Submit a pull-request to update.
 - **Tags**:
 
 
-### EEG Seizure Detection
+## EEG Seizure Detection
 
 - **Description**: Multiple trained seizure detection methods. Proposed method of using a
   time--frequency representation to extract time-varying features coupled with an SVM, and other
@@ -99,7 +99,7 @@ Submit a pull-request to update.
 
 ---
 
-### EEG Maturational Age
+## EEG Maturational Age
 
 - **Description**: EEG Maturational Age ML estimator, using support-vector regression (SVR) models.
 - **Code**: [github | Matlab](https://github.com/nstevensonUH/Neonatal-EEG-Analysis/)
@@ -110,7 +110,7 @@ Submit a pull-request to update.
 
 ---
 
-### EEG Background grading 
+## EEG Background grading 
 
 - **Description**: ML method to classify background EEG activity using qEEG features and a ML model.
 - **Code**: [github | Matlab](https://github.com/smontazeriUH/Neonatal-EEGBackground-Classifier)
@@ -157,8 +157,9 @@ Submit a pull-request to update.
 - **Paper**: [Magarelli et al., preprint, 2025](https://arxiv.org/abs/2509.09695)
 - **Tags**: EEG, grading, term, CNN
 
+---
 
-### Associated tools
+## Associated tools
 
 - **Description**: NEURAL. Curated set of quantitative features for neonatal EEG.
 - **Code**: [github (Matlab version)](https://github.com/otoolej/qEEG_feature_set) | [github @BrianMur92 (Python version)](https://github.com/BrianMur92/NEURAL_py_EEG_feature_set)
