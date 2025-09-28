@@ -10,7 +10,7 @@ Submit a pull-request to update.
 - **Tags**:
 
 
-### Seizure Detection
+### EEG Seizure Detection
 
 - **Description**: Multiple trained seizure detection methods. Proposed method of using a
   time--frequency representation to extract time-varying features coupled with an SVM, and other
@@ -72,8 +72,9 @@ Submit a pull-request to update.
 - **Paper**: [Kim et al., PLoS Dig Health, 2025](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000890)
 - **Tags**: EEG, seizure prediction, term
 
+---
 
-### Burst and interburst detection
+### EEG Burst and interburst detection
 
 - **Description**: ML method to detect inter-burst intervals in preterm EEG. Developed and tested on
   a cohort of infants <30 weeks gestational age. Uses SVM and set of qEEG features.
@@ -96,6 +97,7 @@ Submit a pull-request to update.
 - **Paper**: [Murphy et al., EMBC-2020](https://doi.org/10.1109/EMBC44109.2020.9175154)
 - **Tags**: EEG, preterm, bursts, 
 
+---
 
 ### EEG Maturational Age
 
@@ -106,8 +108,9 @@ Submit a pull-request to update.
   al., Sci Reports, 2017](https://www.nature.com/articles/s41598-017-13537-3)
 - **Tags**: EEG, preterm, maturational age, gestational age, SVR
 
+---
 
-### Background grading 
+### EEG Background grading 
 
 - **Description**: ML method to classify background EEG activity using qEEG features and a ML model.
 - **Code**: [github | Matlab](https://github.com/smontazeriUH/Neonatal-EEGBackground-Classifier)
