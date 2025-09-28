@@ -1,6 +1,7 @@
 # List of open-access machine-learning (ML) models and associated tools for neonatal brain monitoring technologies
 
-Submit a pull-request to update. 
+Pull-requests welcome to update.
+
 
 ## Template
 
@@ -13,7 +14,7 @@ Submit a pull-request to update.
 ## EEG Seizure Detection
 
 - **Description**: Multiple trained seizure detection methods. Proposed method of using a
-  time--frequency representation to extract time-varying features coupled with an SVM, and other
+  time-frequency representation to extract time-varying features coupled with a SVM, and other
   older seizure detection models.
 - **Code**: [github | Matlab](https://github.com/ktapani/Neonatal_Seizure_Detection)
 - **Paper**: [Tapani et al., Int J Neural Sys,
@@ -74,7 +75,7 @@ Submit a pull-request to update.
 
 ---
 
-### EEG Burst and interburst detection
+## EEG Burst and interburst detection
 
 - **Description**: ML method to detect inter-burst intervals in preterm EEG. Developed and tested on
   a cohort of infants <30 weeks gestational age. Uses SVM and set of qEEG features.
@@ -119,7 +120,7 @@ Submit a pull-request to update.
 
 ---
 
-- **Description**: ML method to classifiy background EEG activity using spectrograms and an CNN model.
+- **Description**: ML method to classify background EEG activity using spectrograms and a CNN model.
 - **Code**: [github | Python](https://github.com/leahtwomey/Long_term_EEG_Grading_Using_DSP_ML/tree/main)
 - **Paper**: [Twomey et al., Sensors, 2025](https://www.mdpi.com/1424-8220/25/10/3007)
 - **Tags**: EEG, grading, term, CNN
@@ -169,7 +170,7 @@ Submit a pull-request to update.
 ---
 
 - **Description**: Quantitative features for preterm EEG
-- **Code**: [github | Matlab]()
+- **Code**: [github | Matlab](https://github.com/nstevensonUH/Neonatal-EEG-Analysis/)
 - **Paper**: [Stevenson et al., Sci Reports, 2017](https://www.nature.com/articles/s41598-017-13537-3)
 - **Tags**: EEG, preterm, qEEG, quantitative EEG, feature set
 
