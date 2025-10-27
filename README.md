@@ -3,7 +3,7 @@
 Pull-requests welcome to update.
 
 Use template below to add to this file. General instructions on how to edit this file in this
-[guide](./editing_instructions.md) guide.
+[guide](./editing_instructions.md).
 
 ## Template
 

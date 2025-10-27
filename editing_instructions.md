@@ -24,7 +24,7 @@
 
 ### Step 1: Find the file
 1. Go to the project URL on GitHub (something like `github.com/ai4nicu/list-neonatal-algs`).
-2. In the file list, click the folder(s) until you find the Markdown file (often named `README.md`).
+2. In the file list, click on the Markdown file `README.md`.
 
 ### Step 2: Open the editor
 1. Click the file name to view it.
@@ -158,7 +158,7 @@ If you prefer working locally, two beginner‑friendly options:
 ### Option 2: Command line (for the curious)
 ```
 # 1) Get the repo
-git clone https://github.com/ai4nicu/REPO.git
+git clone https://github.com/ai4nicu/list-neonatal-algs.git
 cd REPO
 
 # 2) Create a branch for your change (recommended)
